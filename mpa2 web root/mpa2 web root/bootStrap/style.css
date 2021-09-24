@@ -1,0 +1,114 @@
+.menu-demo
+{
+    margin-top: 20px;
+}
+.brand-logo
+{
+    margin-left: 50px;
+}
+nav ul
+{
+    margin-right: 50px;
+}
+
+.input-field label {
+     color: #1e88e5;
+   }
+   /* label underline focus color */
+   .input-field input[type=text]:focus {
+     border-bottom: 1px solid #fff;
+     box-shadow: 0 1px 0 0 #fff;
+   }
+
+ul.dropdown-content.select-dropdown li span {
+    color:#1e88e5; /* no need for !important :) */
+}
+
+.info ul {
+    color:#000000;
+}
+
+.btn
+{
+    background-color: #1e88e5;
+}
+
+.login-admin
+{
+    margin-top:15%;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 2px 0px 20px
+}
+
+.logo
+{
+    height: 15%;
+}
+.login-btn
+{
+    margin-top: 15px;
+}
+
+.admin-page
+{
+    height: 80%;
+}
+
+.custome-footer
+{
+    height: 10%;
+}
+
+.admin-root{
+ padding-left: 10%;
+}
+.sidenav-select:hover
+{
+    background-color: #64b5f6;
+    color: white;
+}
+
+.admin-icons
+{
+    font-size: 40px;
+}
+.scuola-sel label.error
+{
+    color: red;
+}
+
+.nav-logo
+{
+    background-size: cover;
+}
+
+.datepicker-date-display
+{
+    background-color: #64b5f6;
+}
+.datepicker-cancel, .datepicker-clear, .datepicker-today, .datepicker-done
+{
+    color: #64b5f6;
+}
+.is-today is-selected
+{
+    background-color: #64b5f6;
+}
+
+div.UserLog {
+    width: 150px;
+    position: absolute;
+    top: 10;
+    left: 40;    
+    margin = 10;
+    background-color: #f5f5f5; /* Colore di sfondo */
+    box-shadow: 2px 0px 20px;           
+    border: 1px solid blue; /* Bordo */
+    color: blue; /* Colore del testo */
+    height: 20px; /* Altezza */
+    line-height: 10px; /* Altezza di riga */
+    padding: 0 10px; /* Padding */
+    margin-top: : 10px;
+    font-size: 20; 
+} 
