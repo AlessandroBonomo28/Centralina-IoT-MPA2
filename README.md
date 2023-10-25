@@ -14,7 +14,7 @@ In questo repository troverai 3 cartelle e la documentazione del progetto:
 - `arduino software` software da caricare su arduino
 - `mpa2 web root` insieme di tutti gli script php e funzioni javascript da mettere nella root del tuo web server apache
 - `database schema` script sql per inizializzare il database mysql
-- `documentazione` progettazione del database, funzionigrammi, schema delle risorse di sistema, dettagli implementativi e schema circuitale.
+- `documentazione` progettazione del database, funzionigrammi, schema delle risorse di sistema, dettagli implementativi e schema circuitale. [Download documentation](https://github.com/AlessandroBonomo28/Centralina-IoT-MPA2/raw/main/docTecnicaMPA2.doc)
 - `Youtube tutorial` https://www.youtube.com/playlist?list=PL7X2zBebu0O2Qnhch-h9dmvI2NynVb9TV
 ## Web interface
 ![ultime letture](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/1f8505ac-53ed-4620-8d09-648e2b2e1399)
