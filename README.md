@@ -3,7 +3,7 @@ Progetto presentato all'esame di stato 2018/19 per il diploma di **Perito inform
 #### Obiettivo
 Realizzazione di *Centraline IoT* che raccolgono dati ambientali che vengono inviati, mediante wi-fi, ad un sito remoto.
 ## Tech stack
--	`Hardware arduino + ESP8266`: arduino del programma che preleva periodicamente i dati dei sensori che trasmette, mediante il modulo wifi, al sito remoto;
+-	`Hardware arduino + ESP8266`: arduino legge periodicamente i dati dei sensori e li trasmette, mediante il modulo wifi ESP8266, al sito remoto;
 -	`Web server remoto Apache` in ascolto di richieste HTTP GET/POST da parte della centralina IoT arduino.
 -	`PHP + MySql database` PHP elabora le richieste al server, si connette al database e deposita, mediante sql dml, i dati ricevuti da arduino nelle rispettive tabelle;
 -	`JavaScript + JQuery` funzioni Javascript che prelevano i dati del database e utilizzano librerie grafiche per rappresentarli.
