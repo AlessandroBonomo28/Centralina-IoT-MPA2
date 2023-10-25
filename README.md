@@ -11,7 +11,7 @@ Realizzazione di *Centraline IoT* che raccolgono dati ambientali che vengono inv
 In questo repository troverai 3 cartelle e la documentazione del progetto:
 - `arduino software` software da caricare su arduino
 - `mpa2 web root` insieme di tutti gli script php e funzioni javascript da mettere nella root del tuo web server apache
-- `database schema` script sql per iniziale il database mysql
+- `database schema` script sql per inizializzare il database mysql
 - `documentazione` progettazione del database, funzionigrammi, schema delle risorse di sistema, dettagli implementativi e schema circuitale.
 - `Youtube tutorial` https://www.youtube.com/playlist?list=PL7X2zBebu0O2Qnhch-h9dmvI2NynVb9TV
 ## Web interface
