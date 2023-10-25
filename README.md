@@ -1,4 +1,4 @@
-![image](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/69539430-509d-4667-a65e-8a0fc8f55dde)# Progetto Monitoraggio di parametri ambientali (M.P.A.) 2
+# Progetto Monitoraggio di parametri ambientali (M.P.A.) 2
 Progetto presentato all'esame di stato 2018/19 per il diploma di **Perito informatico**, ottenuto presso l'ITIS Giordani a Caserta, indirizzo Informatica e telecomunicazioni.
 **Obiettivo**: Realizzazione di Centraline IoT che raccolgono dati ambientali che vengono inviati, mediante wi-fi, ad un sito remoto.
 ## Tech stack
@@ -20,6 +20,6 @@ In questo repository troverai 3 cartelle e la documentazione del progetto:
 ## Database
 ![db](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/5108958d-7d99-44f7-9cec-06c034111826)
 ## Hardware
-![mpa2](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/c76be419-46c9-4182-ac61-ff06478cbd29)
+![image](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/69539430-509d-4667-a65e-8a0fc8f55dde)
 
 
