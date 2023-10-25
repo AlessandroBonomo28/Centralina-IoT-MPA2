@@ -1,5 +1,5 @@
 # Progetto Monitoraggio di parametri ambientali (M.P.A.) 2
-Progetto presentato all'esame di stato 2018/19 per il diploma di **Perito informatico**, ottenuto presso l'ITIS Giordani a Caserta, indirizzo Informatica e telecomunicazioni.  [Download project documentation]
+Progetto presentato all'esame di stato 2018/19 per il diploma di **Perito informatico**, ottenuto presso l'ITIS Giordani a Caserta, indirizzo Informatica e telecomunicazioni.  [Download project documentation](https://github.com/AlessandroBonomo28/Centralina-IoT-MPA2/raw/main/docTecnicaMPA2.doc)
 #### Obiettivo
 Realizzazione di *Centraline IoT* che raccolgono dati ambientali che vengono inviati, mediante wi-fi, ad un sito remoto.
 
