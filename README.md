@@ -1,6 +1,7 @@
 # Progetto Monitoraggio di parametri ambientali (M.P.A.) 2
 Progetto presentato all'esame di stato 2018/19 per il diploma di **Perito informatico**, ottenuto presso l'ITIS Giordani a Caserta, indirizzo Informatica e telecomunicazioni.
-**Obiettivo**: Realizzazione di Centraline IoT che raccolgono dati ambientali che vengono inviati, mediante wi-fi, ad un sito remoto.
+#### Obiettivo
+Realizzazione di *Centraline IoT* che raccolgono dati ambientali che vengono inviati, mediante wi-fi, ad un sito remoto.
 ## Tech stack
 -	`Hardware arduino + ESP8266`: arduino del programma che preleva periodicamente i dati dei sensori che trasmette, mediante il modulo wifi, al sito remoto;
 -	`Web server remoto Apache` in ascolto di richieste HTTP GET/POST da parte della centralina IoT arduino.
