@@ -2,6 +2,8 @@
 Progetto presentato all'esame di stato 2018/19 per il diploma di **Perito informatico**, ottenuto presso l'ITIS Giordani a Caserta, indirizzo Informatica e telecomunicazioni.
 #### Obiettivo
 Realizzazione di *Centraline IoT* che raccolgono dati ambientali che vengono inviati, mediante wi-fi, ad un sito remoto.
+
+![362875-635573441388121239-16x9-3363977870](https://github.com/AlessandroBonomo28/Centralina-IoT-MPA2/assets/75626033/22883bc7-fc26-4914-a8db-f32de719ed4d)
 ## Tech stack
 -	`Hardware arduino + ESP8266`: arduino legge periodicamente i dati dei sensori e li trasmette, mediante il modulo wifi ESP8266, al sito remoto;
 -	`Web server remoto Apache` in ascolto di richieste HTTP GET/POST da parte della centralina IoT arduino.
