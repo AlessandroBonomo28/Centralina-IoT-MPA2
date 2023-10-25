@@ -20,6 +20,5 @@ In questo repository troverai 3 cartelle e la documentazione del progetto:
 ## Database
 ![db](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/5108958d-7d99-44f7-9cec-06c034111826)
 ## Hardware
-![image](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/69539430-509d-4667-a65e-8a0fc8f55dde)
-
+![mpa2](https://github.com/AlessandroBonomo28/MPA-2/assets/75626033/00cb88be-0333-4959-869c-79e898d673c1)
 
